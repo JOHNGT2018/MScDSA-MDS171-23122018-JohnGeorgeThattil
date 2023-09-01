@@ -15,3 +15,4 @@ Email: john.thattil@msds.christuniversity.in
 |:----:|:----:|:---:|:----:|
 |1.|23-08-23|lab01|write a program to enter name and push it to github|
 |2.|28-08-23|lab02|The name collector's quest|
+|3.|1-09-23|lab03|Program to find mean,max,min,range from the list & push it to git|
