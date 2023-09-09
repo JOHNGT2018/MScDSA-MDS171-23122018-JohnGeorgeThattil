@@ -17,4 +17,4 @@ Email: john.thattil@msds.christuniversity.in
 |2.|28-08-23|lab02|The name collector's quest|
 |3.|1-09-23|lab03|Program to find mean,max,min,range from the list & push it to git|
 |4.|4-09-23|lab04|Program to store details in files,display insights & push it to git|
-|5.|9-09-23|lab04|Program to store details  & push it to git|
+|5.|9-09-23|lab05|Program of mix & match calculator & push it to git|
