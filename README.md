@@ -11,7 +11,7 @@ Email: john.thattil@msds.christuniversity.in
 
 ***
 ## Index
-|sl.no|date|file name|topic|Link|
+|Sl.N0|Date|File Name|Topic|Link|
 |:----:|:----:|:---:|:----:|-----|
 |1.|23-08-23|lab01|write a program to enter name and push it to github|[Lab 01](https://github.com/JOHNGT2018/MScDSA-MDS171-23122018-JohnGeorgeThattil/blob/e3a55bd12e6f1df713bd8cf28e24d1680cd422e6/Lab01.ipynb)
 |2.|28-08-23|lab02|The name collector's quest|[Lab 02](https://github.com/JOHNGT2018/MScDSA-MDS171-23122018-JohnGeorgeThattil/blob/e3a55bd12e6f1df713bd8cf28e24d1680cd422e6/Lab02.ipynb)
