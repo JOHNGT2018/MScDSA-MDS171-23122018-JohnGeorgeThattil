@@ -22,3 +22,4 @@ Email: john.thattil@msds.christuniversity.in
 |7.|17-09-23|lab07|Program of my menu driven restaurant& push it to git|[Lab 07](https://github.com/JOHNGT2018/MScDSA-MDS171-23122018-JohnGeorgeThattil/blob/c86732c4d6c5bb0e93712fabb8b5813f9499df76/Lab07.ipynb)
 |8.|-09-23|lab08|Program of Matrix Multiplication & push it to git|[Lab 08]()
 |9.|22-09-23|lab09|Program of Expense Tracker & push it to git|[Lab 09]()
+|10.|25-10-23|CAC2|Python Project|[CAC2](https://github.com/JOHNGT2018/MScDSA-MDS171-23122018-JohnGeorgeThattil/tree/1af5be3cf28d360afba8a754c7adbe44733a4531/CAC2)
