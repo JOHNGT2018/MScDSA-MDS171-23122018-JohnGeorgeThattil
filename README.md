@@ -20,6 +20,9 @@ Email: john.thattil@msds.christuniversity.in
 |5.|9-09-23|lab05|Program of mix & match calculator |[Lab 05](https://github.com/JOHNGT2018/MScDSA-MDS171-23122018-JohnGeorgeThattil/tree/e3a55bd12e6f1df713bd8cf28e24d1680cd422e6/Lab%2005)
 |6.|11-09-23|lab06|Program of vowel counter|[Lab 06](https://github.com/JOHNGT2018/MScDSA-MDS171-23122018-JohnGeorgeThattil/blob/e3a55bd12e6f1df713bd8cf28e24d1680cd422e6/Lab06.ipynb)
 |7.|17-09-23|lab07|Program of my menu driven restaurant|[Lab 07](https://github.com/JOHNGT2018/MScDSA-MDS171-23122018-JohnGeorgeThattil/blob/c86732c4d6c5bb0e93712fabb8b5813f9499df76/Lab07.ipynb)
-|8.|-09-23|lab08|Program of Matrix Multiplication |[Lab 08]()
-|9.|22-09-23|lab09|Program of Expense Tracker|[Lab 09]()
-|10.|25-10-23|CAC2|Python Project|[CAC2](https://github.com/JOHNGT2018/MScDSA-MDS171-23122018-JohnGeorgeThattil/tree/1af5be3cf28d360afba8a754c7adbe44733a4531/CAC2)
+|8.|20-09-23|lab08|Program of Matrix Multiplication |[Lab 08]()
+|9.|22-09-23|lab09|Program of Expense Tracker|[Lab 09](https://github.com/JOHNGT2018/MScDSA-MDS171-23122018-JohnGeorgeThattil/blob/c95e049ed2a24ec9e6e1b661c2905abd707515cf/Lab09.ipynb)
+|10.|26-10-23|lab10|Program of python class, student details & marks|[Lab 10](https://github.com/JOHNGT2018/MScDSA-MDS171-23122018-JohnGeorgeThattil/blob/c95e049ed2a24ec9e6e1b661c2905abd707515cf/Lab10.ipynb)
+|11.|19-09-23|CAC1|Python Project|[CAC1](https://github.com/JOHNGT2018/MScDSA-MDS171-23122018-JohnGeorgeThattil/blob/c95e049ed2a24ec9e6e1b661c2905abd707515cf/CAC1.ipynb)
+|12.|25-10-23|CAC2|Python Project|[CAC2](https://github.com/JOHNGT2018/MScDSA-MDS171-23122018-JohnGeorgeThattil/tree/1af5be3cf28d360afba8a754c7adbe44733a4531/CAC2)
+
